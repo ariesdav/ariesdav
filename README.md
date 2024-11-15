@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 
+😶 I don't know what to explain about myself
 
-<!--
-**ariesdav/ariesdav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/cgW5iwX0e37qg/giphy.gif" width="480" height="271" alt="Adventure Time Gif">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+### **Languages (mostly)**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"/>
+
+---
+
+## ⚙️ GitHub Analytics
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariesdav&layout=compact&theme=radical)
+
